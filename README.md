@@ -102,3 +102,8 @@ Prompt user for input
 
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/026-input-eljelkje_orig.png)
 
+Prompt user - if decision
+
+![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/028-prompt-using-if-1-lkj_orig.png)
+
+
