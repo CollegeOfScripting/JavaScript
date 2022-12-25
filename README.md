@@ -50,4 +50,9 @@ You will learn how to make:
   + Largest in Array
   + Smallest in Array
   + Lowercase/Uppercase All items in the Array
-+ 
+  + Text to Array
+  + Randomize - Shuffle
++ Identity Generator
++ Number Divisiable of Not?
++ Nnumber Even or Odd?
++ Tile Generator
