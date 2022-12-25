@@ -15,7 +15,12 @@ Scripting means Writing.
 ## The more you type and write scripts, the better you will be!
 
 You will learn how to make:
++ Calculator
 + Addess Book
++ Graphs
+  + Bar Graphs
+  + Line Graphs
+  + Real Time Graphs
 + Video Editor
 + Script Editor
 + Cipher Generator
@@ -41,4 +46,4 @@ You will learn how to make:
   + Largest in Array
   + Smallest in Array
   + Lowercase/Uppercase All items in the Array
-  + 
++ 
