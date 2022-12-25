@@ -88,5 +88,4 @@ You will learn how to make:
 Happy Scripting!
 
 The very first thing to learn in JavaScript is that JavaScript works in ANY browser worldwide!
-How does JavaScript compare with Python?
-JavaScript and Python are very simil
+![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/title_orig.png)
