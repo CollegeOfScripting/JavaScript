@@ -60,4 +60,4 @@ You will learn how to make:
 + Pathfinding
 + Spreadsheet Data to JavaScript
 + Spreadsheet Common Functionality to JavaScript
-+ Investigtator Crime Scene Recreation
++ Investigtator Crime Scene Recreation in Game Engine - 2D and 3D
