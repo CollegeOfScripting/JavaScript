@@ -71,7 +71,7 @@ You will learn how to make:
 + Spreadsheet Common Functionality to JavaScript
 + Investigtator Crime Scene Recreation in Game Engine - 2D and 3D
   + [2D](https://github.com/ChristopherTopalian/TopalianGameEngineDataNavigator)
-+ [Bookmarklets](https://github.com/ChristopherTopalian/JavaScript_Bookmarklets)
++ [Bookmarklets](https://github.com/ChristopherTopalian/Topalian_JavaScript_Bookmarklets)
   + Harvesting Website Data in Realtime
   + [Navigate Any Website as Game Character](https://github.com/ChristopherTopalian/Topalian-Website-Game-Engine)
 + [Tampermonkey](https://github.com/ChristopherTopalian/Topalian_JavaScript_UserScripts) - Activating our JavaScript online to Harvest Data and Modify any website
@@ -84,3 +84,9 @@ You will learn how to make:
 + Calculation Suites - Useful Formulas
 + OpenCV.js
   - Excellent FUN - we use opencv.js in our browser, which means the world can now use opencv!
+
+Happy Scripting!
+
+The very first thing to learn in JavaScript is that JavaScript works in ANY browser worldwide!
+How does JavaScript compare with Python?
+JavaScript and Python are very simil
