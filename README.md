@@ -59,6 +59,7 @@ You will learn how to make:
   + [Find Index by Name](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_find_index_by_name)
   + [Key Choice](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_choice)
   + [Key Value to Show](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_value_to_show)
+  + [Buttons from Array of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main)/js_buttons_create_from_array_of_objects
 + Identity Generator
 + Number Divisible of Not
 + Number Even or Odd
