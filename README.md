@@ -1,4 +1,4 @@
-Heading level 1 JavaScript
+# JavaScript
 
 ## Learn JavaScript Here Step by Step
 
