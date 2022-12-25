@@ -14,7 +14,8 @@ Scripting means Writing.
 
 ## The more you type and write scripts, the better you will be!
 
-We use 100% JavaScript Code, with NO outside libraries required at all! Just pure JS!
+We teach you to make things yourself using JS!
+This is 100% pure JS, with NO outside libraries required.
 
 You will learn how to make:
 + Calculator
