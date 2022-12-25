@@ -58,6 +58,7 @@ You will learn how to make:
   + [Filter to New Array Of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_filter_to_new_array_of_objects)
   + [Find Index by Name](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_find_index_by_name)
   + [Key Choice](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_choice)
+  + [Key Value to Show](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_value_to_show)
 + Identity Generator
 + Number Divisible of Not
 + Number Even or Odd
