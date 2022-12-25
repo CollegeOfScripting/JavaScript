@@ -91,11 +91,14 @@ The very first thing to learn in JavaScript is that JavaScript works in ANY brow
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/title_orig.png)
 
 We Always make a Folder of Each Project
+
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/002-how-to-make-new-folder_orig.png)
 
 Alert message
+
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/023-alert-nice-lkjel_orig.png)
 
 Prompt user for input
+
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/026-input-eljelkje_orig.png)
 
