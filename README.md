@@ -33,7 +33,7 @@ You will learn how to make:
 + Texture Changer
 + Random Texture
 + Random Word
-+ Word Scramber
++ Word Scrambler
 + Clock
 + Alarm Clock
 + Alarm Clock and Date
