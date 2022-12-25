@@ -42,7 +42,9 @@ You will learn how to make:
 + 3D World
 + 3D Game
 + Pdf Viewers
++ News Viewers
 + Code Viewers
++ Website Generators
 + Video - Human Expression Database
 + Array
   + Largest in Array
@@ -54,3 +56,7 @@ You will learn how to make:
 + Number Divisiable of Not?
 + Number Even or Odd?
 + Tile Generator
++ Comic Book Maker
++ Pathfinding
++ Spreadsheet Data to JavaScript
++ Spreadsheet Common Functionality to JavaScript
