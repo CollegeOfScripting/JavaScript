@@ -23,12 +23,12 @@ You will learn how to make:
   + Bar Graphs
   + Line Graphs
   + Real Time Graphs
-+ Video Editor
++ [Video Editor](https://github.com/ChristopherTopalian/VideoInvestigator)
 + Script Editor
 + Cipher Generator
 + The Earth - With Everything placed at correct Latitude Longitude
   + Yes, we make it as big as the Earth!
-+ [Game Engine](https://github.com/ChristopherTopalian/Topalian-Game-Engine).
++ [Game Engine](https://github.com/ChristopherTopalian/Topalian-Game-Engine)
 + Dice
 + Texture Changer
 + Random Texture
