@@ -24,8 +24,8 @@ You will learn how to make:
   + Bar Graphs
   + Line Graphs
   + Real Time Graphs
-+ [Video Editor]
-  + [Video Investigator]((https://github.com/ChristopherTopalian/VideoInvestigator))
++ Video Editor
+  + [Video Investigator](https://github.com/ChristopherTopalian/VideoInvestigator)
   + Video - Human Expression Database
 + Script Editor
 + Cipher Generator
