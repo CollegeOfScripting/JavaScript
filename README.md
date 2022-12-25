@@ -55,7 +55,7 @@ You will learn how to make:
   + Text to Array
   + Randomize - Shuffle
 + Array of Objects - Makes Everything MUCH easier in programming!
-  + Many Examples to be linked to!
+  + [Filter to New Array Of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_filter_to_new_array_of_objects)
 + Identity Generator
 + Number Divisible of Not
 + Number Even or Odd
