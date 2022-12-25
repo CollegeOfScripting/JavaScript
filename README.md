@@ -53,6 +53,8 @@ You will learn how to make:
   + Lowercase/Uppercase All items in the Array
   + Text to Array
   + Randomize - Shuffle
++ Array of Objects - Makes Everything MUCH easier in programming!
+  + Many Examples to be linked to!
 + Identity Generator
 + Number Divisible of Not?
 + Number Even or Odd?
@@ -69,4 +71,6 @@ You will learn how to make:
 + [Tampermonkey](https://github.com/ChristopherTopalian/Topalian_JavaScript_UserScripts) - Activating our JavaScript online to Harvest Data and Modify any website
 + [JavaScript Tutorials](https://github.com/ChristopherTopalian/Topalian_JavaScript)
 + [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
-
++ Replace Profanity as User Types
++ Menus
++ 
