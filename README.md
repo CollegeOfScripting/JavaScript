@@ -53,7 +53,7 @@ You will learn how to make:
   + Text to Array
   + Randomize - Shuffle
 + Identity Generator
-+ Number Divisiable of Not?
++ Number Divisible of Not?
 + Number Even or Odd?
 + Tile Generator
 + Comic Book Maker
