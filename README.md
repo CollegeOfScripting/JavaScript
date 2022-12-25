@@ -52,5 +52,5 @@ You will learn how to make:
   + Randomize - Shuffle
 + Identity Generator
 + Number Divisiable of Not?
-+ Nnumber Even or Odd?
++ Number Even or Odd?
 + Tile Generator
