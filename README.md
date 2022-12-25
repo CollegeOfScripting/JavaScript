@@ -10,4 +10,4 @@ Scripting, meaning Writing.
 
 <a href="[http://example.com](https://github.com/christophertopalian)/" target="_blank">example</a>
 
-Cosmas [CODE]([https://pages.github.com/](https://github.com/christophertopalian)).
+Cosmas [CODE](https://github.com/christophertopalian).
