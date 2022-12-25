@@ -8,4 +8,4 @@ Scripting, meaning Writing.
 
 # The more you type and write scripts, the better you will be!
 
-This is [an example]([http://example.com](https://github.com/ChristopherTopalian/JavaScript_Bookmarklets)/ "Title") inline link.
+This site was built using [GitHub Pages](https://pages.github.com/).
