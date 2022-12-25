@@ -14,6 +14,8 @@ Scripting means Writing.
 
 ## The more you type and write scripts, the better you will be!
 
+We use 100% JavaScript Code, with NO outside libraries!
+
 You will learn how to make:
 + Calculator
 + Addess Book
