@@ -8,7 +8,7 @@ Cosmas [CODE](https://github.com/christophertopalian).
 
 ## Learn JavaScript Here Step by Step
 
-Hi Everyone. Let's get started learning JavaScript!
+Hi Everyone. Let's master JavaScript!
 
 Scripting means Writing.
 
