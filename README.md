@@ -61,3 +61,5 @@ You will learn how to make:
 + Spreadsheet Data to JavaScript
 + Spreadsheet Common Functionality to JavaScript
 + Investigtator Crime Scene Recreation in Game Engine - 2D and 3D
++ Bookmarklets - Harvesting Website Data in Realtime
++ Tampermonkey - Activating our JavaScript online to Harvest Data and Modify any website
