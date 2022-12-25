@@ -8,8 +8,6 @@ Cosmas [CODE](https://github.com/christophertopalian).
 
 ## Learn JavaScript Here Step by Step
 
-Hi Everyone. JavaScript Tutorial here for everyone to learn for free!
-
 Scripting means Writing.
 
 ## The more you type and write scripts, the better you will be!
