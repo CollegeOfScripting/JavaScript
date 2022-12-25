@@ -56,6 +56,7 @@ You will learn how to make:
   + Randomize - Shuffle
 + Array of Objects - Makes Everything MUCH easier in programming!
   + [Filter to New Array Of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_filter_to_new_array_of_objects)
+  + [Find Index by Name](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_find_index_by_name)
 + Identity Generator
 + Number Divisible of Not
 + Number Even or Odd
