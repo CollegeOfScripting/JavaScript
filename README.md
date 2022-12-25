@@ -56,8 +56,8 @@ You will learn how to make:
 + Array of Objects - Makes Everything MUCH easier in programming!
   + Many Examples to be linked to!
 + Identity Generator
-+ Number Divisible of Not?
-+ Number Even or Odd?
++ Number Divisible of Not
++ Number Even or Odd
 + Tile Generator
 + Comic Book Maker
 + Pathfinding
@@ -72,5 +72,8 @@ You will learn how to make:
 + [JavaScript Tutorials](https://github.com/ChristopherTopalian/Topalian_JavaScript)
 + [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
 + Replace Profanity as User Types
-+ Menus
-+ 
++ Menu System
++ Calendar
++ Conversion Suites - Speed, Time, Distance, etc
++ Calculation Suites - Useful Formulas
++ OpenCV.js!!! Excellent FUN and We use opencv.js in our browser, which means the world can now use opencv!
