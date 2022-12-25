@@ -37,3 +37,8 @@ You will learn how to make:
 + Pdf Viewers
 + Code Viewers
 + Video - Human Expression Database
++ Array
+  + Largest in Array
+  + Smallest in Array
+  + Lowercase/Uppercase All items in the Array
+  + 
