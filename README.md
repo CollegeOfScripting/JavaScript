@@ -22,3 +22,12 @@ How to make:
 + Cipher Generator
 + The Earth - With Everything placed at correct Latitude Longitude
   + Yes, we make it as big as the Earth!
++ Game Engine
++ Dice
++ Texture Changer
++ Random Texture
++ Random Word
++ Word Scramber
++ Clock
++ Alarm Clock
++ Alarm Clock and Date
