@@ -14,8 +14,7 @@ Scripting, meaning Writing.
 
 ## The more you type and write scripts, the better you will be!
 
-What will you learn here:
-How to make:
+You will learn how to make:
 + Addess Book
 + Video Editor
 + Script Editor
