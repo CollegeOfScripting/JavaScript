@@ -10,7 +10,7 @@ Cosmas [CODE](https://github.com/christophertopalian).
 
 Hi Everyone. Let's get started learning JavaScript!
 
-Scripting, meaning Writing.
+Scripting means Writing.
 
 ## The more you type and write scripts, the better you will be!
 
