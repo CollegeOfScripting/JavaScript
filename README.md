@@ -21,4 +21,4 @@ How to make:
 + Script Editor
 + Cipher Generator
 + The Earth - With Everything placed at correct Latitude Longitude
-  +Yes, we make it as big as the Earth!
+  + Yes, we make it as big as the Earth!
