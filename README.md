@@ -65,3 +65,6 @@ You will learn how to make:
 + [Bookmarklets](https://github.com/ChristopherTopalian/JavaScript_Bookmarklets)
   + Harvesting Website Data in Realtime
 + Tampermonkey - Activating our JavaScript online to Harvest Data and Modify any website
++ [JavaScript Tutorials](https://github.com/ChristopherTopalian/Topalian_JavaScript)
++ [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
++ 
