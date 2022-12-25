@@ -24,7 +24,9 @@ You will learn how to make:
   + Bar Graphs
   + Line Graphs
   + Real Time Graphs
-+ [Video Editor](https://github.com/ChristopherTopalian/VideoInvestigator)
++ [Video Editor]
+  + [Video Investigator]((https://github.com/ChristopherTopalian/VideoInvestigator))
+  + Video - Human Expression Database
 + Script Editor
 + Cipher Generator
 + The Earth - With Everything placed at correct Latitude Longitude
@@ -47,7 +49,6 @@ You will learn how to make:
 + News Viewers
 + Code Viewers
 + Website Generators
-+ Video - Human Expression Database
 + Array
   + Largest in Array
   + Smallest in Array
