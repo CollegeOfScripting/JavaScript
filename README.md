@@ -17,6 +17,7 @@ We teach you to make things yourself using JS!
 NO outside libraries required. Only native JS is used! Very easy to learn! Works world wide on every computer that runs a browser!
 
 You will learn how to make:
++ [Logic Gates](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
 + Calculator
 + Addess Book
 + Graphs
