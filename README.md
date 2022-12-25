@@ -76,4 +76,5 @@ You will learn how to make:
 + Calendar
 + Conversion Suites - Speed, Time, Distance, etc
 + Calculation Suites - Useful Formulas
-+ OpenCV.js!!! Excellent FUN and We use opencv.js in our browser, which means the world can now use opencv!
++ OpenCV.js
+  - Excellent FUN - use opencv.js in our browser, which means the world can now use opencv!
