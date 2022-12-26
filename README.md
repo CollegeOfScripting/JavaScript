@@ -107,5 +107,7 @@ Prompt user - if decision
 
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/028-prompt-using-if-1-lkj_orig.png)
 
-![COSMAS](https://pbs.twimg.com/media/Fk3oFs2WQAUlyfG?format=jpg&name=900x900)
+if diagram
+
+![COSMAS](https://pbs.twimg.com/media/Fk3q19HXwAA51HS?format=jpg&name=900x900)
 
