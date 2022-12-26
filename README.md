@@ -32,15 +32,16 @@ You will learn how to make:
 + The Earth - With Everything placed at correct Latitude Longitude
   + Yes, we make it as big as the Earth!
 + [Game Engine](https://github.com/ChristopherTopalian/Topalian-Game-Engine)
-+ Dice
-+ Texture Changer
-+ Random Texture
-+ Random Word
++ Random
+  + Dice
+  + Random Texture
+  + Random Word
 + Word Scrambler
 + Clock
-+ Alarm Clock
-+ Alarm Clock and Date
-+ World Clock
+  + Alarm Clock
+  + Alarm Clock and Date
+  + World Clock
+++ Calendar
 + [3D](https://github.com/ChristopherTopalian/Topalian_BabylonJS)
   + 3D Website
   + 3D World
@@ -66,6 +67,7 @@ You will learn how to make:
 + Number Even or Odd
 + Tile Generator
 + Comic Book Maker
++ Texture Changer
 + Pathfinding
 + Spreadsheet Data to JavaScript
 + Spreadsheet Common Functionality to JavaScript
@@ -79,7 +81,6 @@ You will learn how to make:
 + [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
 + Replace Profanity as User Types
 + Menu System
-+ Calendar
 + Conversion Suites - Speed, Time, Distance, etc
 + Calculation Suites - Useful Formulas
 + OpenCV.js
