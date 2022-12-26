@@ -81,6 +81,7 @@ You will learn how to make:
 + [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
 + Replace Profanity as User Types
 + Menu System
++ Password Generator
 + Conversion Suites - Speed, Time, Distance, etc
 + Calculation Suites - Useful Formulas
 + OpenCV.js
