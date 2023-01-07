@@ -18,9 +18,9 @@ NO outside libraries required. Only native JS is used! Very easy to learn! Works
 
 You will learn how to make:
 + Logic Gates
-  [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
+  + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
 + Calculator
-  - [video](https://twitter.com/CollegeOfScript/status/1607320247928868864)
+  + [video](https://twitter.com/CollegeOfScript/status/1607320247928868864)
 + Addess Book
 + Graphs
   + Bar Graphs
