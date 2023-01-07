@@ -35,6 +35,11 @@ Middle Click on Any of the Links to Open in New Tab
   
 + Cipher Generator
   + [video](https://twitter.com/CollegeOfScript/status/1610700699846819857)
+  
++ Identity Generator
+  + [video](https://twitter.com/CollegeOfScript/status/1610728273859809280)
+  
++ Password Generator
 
 + Logic Gates
   + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
@@ -44,9 +49,11 @@ Middle Click on Any of the Links to Open in New Tab
   + Bar Graphs
   + Line Graphs
   + Real Time Graphs
+
 + Video Editor
   + [Video Investigator](https://github.com/ChristopherTopalian/VideoInvestigator)
   + Video - Human Expression Database
+
 + Script Editor
 
 + **The Earth** - With Everything placed at correct Latitude Longitude
@@ -82,9 +89,7 @@ Middle Click on Any of the Links to Open in New Tab
   + [Key Choice](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_choice)
   + [Key Value to Show](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_array_of_objects_key_value_to_show)
   + [Buttons from Array of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_buttons_create_from_array_of_objects)
-+ Identity Generator
-  + [video](https://twitter.com/CollegeOfScript/status/1610728273859809280)
-+ Password Generator
+
 + Number Divisible of Not
 + Number Even or Odd
 + Tile Generator
