@@ -16,6 +16,10 @@ We teach you to make things yourself using JS!
 
 NO outside libraries required. Only native JS is used! Very easy to learn! Works world wide on every computer that runs a browser!
 
+Right Click Any of the Links Below - Choose - Open in New Tab
+or
+Middle Click on Any of the Links to Open in New Tab
+
 You will learn how to make:
 + Calculator
   + [video](https://twitter.com/CollegeOfScript/status/1607320247928868864)
