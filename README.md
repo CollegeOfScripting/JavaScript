@@ -67,6 +67,7 @@ You will learn how to make:
   + [Buttons from Array of Objects](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_buttons_create_from_array_of_objects)
 + Identity Generator
   + [video](https://twitter.com/CollegeOfScript/status/1610728273859809280)
++ Password Generator
 + Number Divisible of Not
 + Number Even or Odd
 + Tile Generator
@@ -85,7 +86,6 @@ You will learn how to make:
 + [NodeJS](https://github.com/ChristopherTopalian/Topalian_Node.js)
 + Replace Profanity as User Types
 + Menu System
-+ Password Generator
 + Conversion Suites - Speed, Time, Distance, etc
 + Calculation Suites - Useful Formulas
 + OpenCV.js
