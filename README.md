@@ -14,7 +14,10 @@ Scripting means Writing.
 
 We teach you to make things yourself using JS!
 
-NO outside libraries required. Only native JS is used! Very easy to learn! Works world wide on every computer that runs a browser!
+NO outside libraries required.
+Only native JS is used!
+Very easy to learn!
+Works world wide on every computer that runs a browser!
 
 Right Click Any of the Links Below - Choose - Open in New Tab
 or
