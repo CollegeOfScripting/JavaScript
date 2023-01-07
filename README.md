@@ -30,6 +30,7 @@ You will learn how to make:
   + Video - Human Expression Database
 + Script Editor
 + Cipher Generator
+  + [video](https://twitter.com/CollegeOfScript/status/1610700699846819857)
 + **The Earth** - With Everything placed at correct Latitude Longitude
   + Yes, we make it as big as the Earth!
 + [Game Engine](https://github.com/ChristopherTopalian/Topalian-Game-Engine)
