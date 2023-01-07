@@ -17,10 +17,15 @@ We teach you to make things yourself using JS!
 NO outside libraries required. Only native JS is used! Very easy to learn! Works world wide on every computer that runs a browser!
 
 You will learn how to make:
-+ Logic Gates
-  + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
 + Calculator
   + [video](https://twitter.com/CollegeOfScript/status/1607320247928868864)
+  
++ Cipher Generator
+  + [video](https://twitter.com/CollegeOfScript/status/1610700699846819857)
+
++ Logic Gates
+  + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
+
 + Addess Book
 + Graphs
   + Bar Graphs
@@ -30,8 +35,7 @@ You will learn how to make:
   + [Video Investigator](https://github.com/ChristopherTopalian/VideoInvestigator)
   + Video - Human Expression Database
 + Script Editor
-+ Cipher Generator
-  + [video](https://twitter.com/CollegeOfScript/status/1610700699846819857)
+
 + **The Earth** - With Everything placed at correct Latitude Longitude
   + Yes, we make it as big as the Earth!
 + [Game Engine](https://github.com/ChristopherTopalian/Topalian-Game-Engine)
