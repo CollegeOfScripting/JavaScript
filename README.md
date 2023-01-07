@@ -23,8 +23,10 @@ Very easy to learn!
 Works world wide on every computer that runs a browser!
 
 
-Right Click Any of the Links Below - Choose - Open in New Tab
+Right Click Any of the Links Below - 
+  + Choose - Open in New Tab
 or
+
 Middle Click on Any of the Links to Open in New Tab
 
 You will learn how to make:
