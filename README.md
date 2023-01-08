@@ -40,6 +40,7 @@ Middle Click on Any of the Links to Open in New Tab
   + [video](https://twitter.com/CollegeOfScript/status/1610728273859809280)
   
 + Password Generator
+  + [video](https://twitter.com/CollegeOfScript/status/1612000852796923904)
 
 + Logic Gates
   + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
