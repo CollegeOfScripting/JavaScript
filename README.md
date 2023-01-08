@@ -125,6 +125,8 @@ Happy Scripting!
 
 [or Diagram](https://pbs.twimg.com/media/Fl8CQGtX0AEP3ov?format=jpg&name=900x900)
 
+[and or Diagram](https://pbs.twimg.com/media/Fl-IDfZWAAM_fDT?format=jpg&name=small)
+
 #
 The very first thing to learn in JavaScript is that JavaScript works in ANY browser worldwide!
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/title_orig.png)
