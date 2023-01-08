@@ -119,9 +119,11 @@ Middle Click on Any of the Links to Open in New Tab
 Happy Scripting!
 
 
-[If Diagram](https://pbs.twimg.com/media/Fk3q19HXwAA51HS?format=jpg&name=small)
+[if Diagram](https://pbs.twimg.com/media/Fk3q19HXwAA51HS?format=jpg&name=small)
 
+[and Diagram](https://pbs.twimg.com/media/Fl7_6aHWYAE84jF?format=jpg&name=small)
 
+#
 The very first thing to learn in JavaScript is that JavaScript works in ANY browser worldwide!
 ![COSMAS](https://collegeofscripting.weebly.com/uploads/6/4/4/8/64482293/title_orig.png)
 
