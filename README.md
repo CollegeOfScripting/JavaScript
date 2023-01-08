@@ -6,6 +6,8 @@
 
 Cosmas [CODE](https://github.com/christophertopalian)
 
+[College of Script - Twitter](https://twitter.com/CollegeOfScript)
+
 ## Learn JavaScript Here Step by Step
 
 Scripting means Writing.
