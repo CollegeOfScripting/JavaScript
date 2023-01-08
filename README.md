@@ -39,7 +39,7 @@ Middle Click on Any of the Links to Open in New Tab
 + ### Identity Generator
   + [video](https://twitter.com/CollegeOfScript/status/1610728273859809280)
   
-+ Password Generator
++ ### Password Generator
   + [video](https://twitter.com/CollegeOfScript/status/1612000852796923904)
 
 + Logic Gates
