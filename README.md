@@ -46,6 +46,9 @@ Middle Click on Any of the Links to Open in New Tab
 + ### Password Generator
   + [video](https://twitter.com/CollegeOfScript/status/1612000852796923904)
 
++ ### Time of the World
+  + [video](https://twitter.com/CollegeOfScript/status/1615490598487851008?cxt=HHwWgIDQzfuIsOssAAAA)
+
 + Logic Gates
   + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
 
@@ -69,11 +72,8 @@ Middle Click on Any of the Links to Open in New Tab
   + Random Texture
   + Random Word
 + Word Scrambler
-+ Clock
-  + Alarm Clock
-  + Alarm Clock and Date
-  + World Clock
-      +[video](https://twitter.com/CollegeOfScript/status/1615490598487851008?cxt=HHwWgIDQzfuIsOssAAAA)
++ Alarm Clock
++ Alarm Clock and Date
 + Calendar
 + [3D](https://github.com/ChristopherTopalian/Topalian_BabylonJS)
   + 3D Website
