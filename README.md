@@ -47,7 +47,7 @@ Middle Click on Any of the Links to Open in New Tab
   + [video](https://twitter.com/CollegeOfScript/status/1612000852796923904)
 
 + ### Time of the World
-  + [video](https://twitter.com/CollegeOfScript/status/1615490598487851008?cxt=HHwWgIDQzfuIsOssAAAA)
+  + [video](https://twitter.com/CollegeOfScript/status/1615490094541979648)
 
 + Logic Gates
   + [code](https://github.com/ChristopherTopalian/Topalian_JavaScript/tree/main/js_logic_gates)
